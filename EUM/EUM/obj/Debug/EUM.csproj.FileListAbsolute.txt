@@ -1,0 +1,62 @@
+G:\Borne\EUM\EUM\bin\Debug\EUM.exe.config
+G:\Borne\EUM\EUM\bin\Debug\EUM.exe
+G:\Borne\EUM\EUM\bin\Debug\EUM.pdb
+G:\Borne\EUM\EUM\obj\Debug\EUM.csprojResolveAssemblyReference.cache
+G:\Borne\EUM\EUM\obj\Debug\EUM.EUM.resources
+G:\Borne\EUM\EUM\obj\Debug\EUM.Properties.Resources.resources
+G:\Borne\EUM\EUM\obj\Debug\EUM.csproj.GenerateResource.Cache
+G:\Borne\EUM\EUM\obj\Debug\EUM.exe
+G:\Borne\EUM\EUM\obj\Debug\EUM.pdb
+G:\Borne\EUM\EUM\bin\Debug\Newtonsoft.Json.dll
+G:\Borne\EUM\EUM\bin\Debug\Newtonsoft.Json.xml
+G:\Borne\EUM\EUM\bin\Debug\ITLlib.dll
+G:\Borne\EUM\EUM\bin\Debug\ITLlib.pdb
+C:\Users\ufipay\Desktop\Bornes\EUM\EUM\bin\Debug\EUM.exe.config
+C:\Users\ufipay\Desktop\Bornes\EUM\EUM\bin\Debug\EUM.exe
+C:\Users\ufipay\Desktop\Bornes\EUM\EUM\bin\Debug\EUM.pdb
+C:\Users\ufipay\Desktop\Bornes\EUM\EUM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ufipay\Desktop\Bornes\EUM\EUM\bin\Debug\ITLlib.pdb
+C:\Users\ufipay\Desktop\Bornes\EUM\EUM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ufipay\Desktop\Bornes\EUM\EUM\obj\Debug\EUM.csprojResolveAssemblyReference.cache
+C:\Users\ufipay\Desktop\Bornes\EUM\EUM\obj\Debug\EUM.EUM.resources
+C:\Users\ufipay\Desktop\Bornes\EUM\EUM\obj\Debug\EUM.Properties.Resources.resources
+C:\Users\ufipay\Desktop\Bornes\EUM\EUM\obj\Debug\EUM.csproj.GenerateResource.Cache
+C:\Users\ufipay\Desktop\Bornes\EUM\EUM\obj\Debug\EUM.exe
+C:\Users\ufipay\Desktop\Bornes\EUM\EUM\obj\Debug\EUM.pdb
+C:\Users\ufipay\Documents\borne\Messapress 1\Bornes\EUM\EUM\bin\Debug\EUM.exe.config
+C:\Users\ufipay\Documents\borne\Messapress 1\Bornes\EUM\EUM\bin\Debug\EUM.exe
+C:\Users\ufipay\Documents\borne\Messapress 1\Bornes\EUM\EUM\bin\Debug\EUM.pdb
+C:\Users\ufipay\Documents\borne\Messapress 1\Bornes\EUM\EUM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ufipay\Documents\borne\Messapress 1\Bornes\EUM\EUM\bin\Debug\ITLlib.pdb
+C:\Users\ufipay\Documents\borne\Messapress 1\Bornes\EUM\EUM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ufipay\Documents\borne\Messapress 1\Bornes\EUM\EUM\obj\Debug\EUM.csprojResolveAssemblyReference.cache
+C:\Users\ufipay\Documents\borne\Messapress 1\Bornes\EUM\EUM\obj\Debug\EUM.EUM.resources
+C:\Users\ufipay\Documents\borne\Messapress 1\Bornes\EUM\EUM\obj\Debug\EUM.Properties.Resources.resources
+C:\Users\ufipay\Documents\borne\Messapress 1\Bornes\EUM\EUM\obj\Debug\EUM.csproj.GenerateResource.Cache
+C:\Users\ufipay\Documents\borne\Messapress 1\Bornes\EUM\EUM\obj\Debug\EUM.exe
+C:\Users\ufipay\Documents\borne\Messapress 1\Bornes\EUM\EUM\obj\Debug\EUM.pdb
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\EUM\EUM\bin\Debug\EUM.exe.config
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\EUM\EUM\obj\Debug\EUM.exe
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\EUM\EUM\obj\Debug\EUM.pdb
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\EUM\EUM\bin\Debug\EUM.exe
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\EUM\EUM\bin\Debug\EUM.pdb
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\EUM\EUM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\EUM\EUM\bin\Debug\ITLlib.pdb
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\EUM\EUM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\EUM\EUM\obj\Debug\EUM.csprojResolveAssemblyReference.cache
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\EUM\EUM\obj\Debug\EUM.EUM.resources
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\EUM\EUM\obj\Debug\EUM.Properties.Resources.resources
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\EUM\EUM\obj\Debug\EUM.csproj.GenerateResource.Cache
+D:\Dossiers Bornes\Bornes complete\ufi test\EUM\EUM\bin\Debug\EUM.exe.config
+D:\Dossiers Bornes\Bornes complete\ufi test\EUM\EUM\bin\Debug\EUM.exe
+D:\Dossiers Bornes\Bornes complete\ufi test\EUM\EUM\bin\Debug\EUM.pdb
+D:\Dossiers Bornes\Bornes complete\ufi test\EUM\EUM\bin\Debug\Newtonsoft.Json.dll
+D:\Dossiers Bornes\Bornes complete\ufi test\EUM\EUM\bin\Debug\ITLlib.pdb
+D:\Dossiers Bornes\Bornes complete\ufi test\EUM\EUM\bin\Debug\Newtonsoft.Json.xml
+D:\Dossiers Bornes\Bornes complete\ufi test\EUM\EUM\obj\Debug\EUM.csprojResolveAssemblyReference.cache
+D:\Dossiers Bornes\Bornes complete\ufi test\EUM\EUM\obj\Debug\EUM.EUM.resources
+D:\Dossiers Bornes\Bornes complete\ufi test\EUM\EUM\obj\Debug\EUM.Properties.Resources.resources
+D:\Dossiers Bornes\Bornes complete\ufi test\EUM\EUM\obj\Debug\EUM.csproj.GenerateResource.Cache
+D:\Dossiers Bornes\Bornes complete\ufi test\EUM\EUM\obj\Debug\EUM.csproj.CoreCompileInputs.cache
+D:\Dossiers Bornes\Bornes complete\ufi test\EUM\EUM\obj\Debug\EUM.exe
+D:\Dossiers Bornes\Bornes complete\ufi test\EUM\EUM\obj\Debug\EUM.pdb

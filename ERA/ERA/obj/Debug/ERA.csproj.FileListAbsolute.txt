@@ -1,0 +1,49 @@
+G:\Borne\ERA\ERA\bin\Debug\ERA.exe.config
+G:\Borne\ERA\ERA\bin\Debug\ERA.exe
+G:\Borne\ERA\ERA\bin\Debug\ERA.pdb
+G:\Borne\ERA\ERA\obj\Debug\ERA.csprojResolveAssemblyReference.cache
+G:\Borne\ERA\ERA\obj\Debug\ERA.ERA.resources
+G:\Borne\ERA\ERA\obj\Debug\ERA.Properties.Resources.resources
+G:\Borne\ERA\ERA\obj\Debug\ERA.csproj.GenerateResource.Cache
+G:\Borne\ERA\ERA\obj\Debug\ERA.exe
+G:\Borne\ERA\ERA\obj\Debug\ERA.pdb
+G:\Borne\ERA\ERA\bin\Debug\Newtonsoft.Json.dll
+G:\Borne\ERA\ERA\bin\Debug\Newtonsoft.Json.xml
+G:\Borne\ERA\ERA\bin\Debug\ITLlib.dll
+G:\Borne\ERA\ERA\bin\Debug\ITLlib.pdb
+C:\Users\ufipay\Desktop\Bornes\ERA\ERA\bin\Debug\ERA.exe.config
+C:\Users\ufipay\Desktop\Bornes\ERA\ERA\bin\Debug\ERA.exe
+C:\Users\ufipay\Desktop\Bornes\ERA\ERA\bin\Debug\ERA.pdb
+C:\Users\ufipay\Desktop\Bornes\ERA\ERA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ufipay\Desktop\Bornes\ERA\ERA\bin\Debug\ITLlib.pdb
+C:\Users\ufipay\Desktop\Bornes\ERA\ERA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ufipay\Desktop\Bornes\ERA\ERA\obj\Debug\ERA.csprojResolveAssemblyReference.cache
+C:\Users\ufipay\Desktop\Bornes\ERA\ERA\obj\Debug\ERA.ERA.resources
+C:\Users\ufipay\Desktop\Bornes\ERA\ERA\obj\Debug\ERA.Properties.Resources.resources
+C:\Users\ufipay\Desktop\Bornes\ERA\ERA\obj\Debug\ERA.csproj.GenerateResource.Cache
+C:\Users\ufipay\Desktop\Bornes\ERA\ERA\obj\Debug\ERA.exe
+C:\Users\ufipay\Desktop\Bornes\ERA\ERA\obj\Debug\ERA.pdb
+C:\Users\ufipay\Documents\borne\Messapress 1\Bornes\ERA\ERA\bin\Debug\ERA.exe.config
+C:\Users\ufipay\Documents\borne\Messapress 1\Bornes\ERA\ERA\bin\Debug\ERA.exe
+C:\Users\ufipay\Documents\borne\Messapress 1\Bornes\ERA\ERA\bin\Debug\ERA.pdb
+C:\Users\ufipay\Documents\borne\Messapress 1\Bornes\ERA\ERA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ufipay\Documents\borne\Messapress 1\Bornes\ERA\ERA\bin\Debug\ITLlib.pdb
+C:\Users\ufipay\Documents\borne\Messapress 1\Bornes\ERA\ERA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ufipay\Documents\borne\Messapress 1\Bornes\ERA\ERA\obj\Debug\ERA.csprojResolveAssemblyReference.cache
+C:\Users\ufipay\Documents\borne\Messapress 1\Bornes\ERA\ERA\obj\Debug\ERA.ERA.resources
+C:\Users\ufipay\Documents\borne\Messapress 1\Bornes\ERA\ERA\obj\Debug\ERA.Properties.Resources.resources
+C:\Users\ufipay\Documents\borne\Messapress 1\Bornes\ERA\ERA\obj\Debug\ERA.csproj.GenerateResource.Cache
+C:\Users\ufipay\Documents\borne\Messapress 1\Bornes\ERA\ERA\obj\Debug\ERA.exe
+C:\Users\ufipay\Documents\borne\Messapress 1\Bornes\ERA\ERA\obj\Debug\ERA.pdb
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\ERA\ERA\bin\Debug\ERA.exe.config
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\ERA\ERA\obj\Debug\ERA.exe
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\ERA\ERA\obj\Debug\ERA.pdb
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\ERA\ERA\bin\Debug\ERA.exe
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\ERA\ERA\bin\Debug\ERA.pdb
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\ERA\ERA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\ERA\ERA\bin\Debug\ITLlib.pdb
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\ERA\ERA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\ERA\ERA\obj\Debug\ERA.csprojResolveAssemblyReference.cache
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\ERA\ERA\obj\Debug\ERA.ERA.resources
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\ERA\ERA\obj\Debug\ERA.Properties.Resources.resources
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\ERA\ERA\obj\Debug\ERA.csproj.GenerateResource.Cache

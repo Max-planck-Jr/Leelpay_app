@@ -1,0 +1,45 @@
+G:\Borne\Airtime\Airtime\bin\Debug\Airtime.exe.config
+G:\Borne\Airtime\Airtime\bin\Debug\Airtime.exe
+G:\Borne\Airtime\Airtime\bin\Debug\Airtime.pdb
+G:\Borne\Airtime\Airtime\obj\Debug\Airtime.csprojResolveAssemblyReference.cache
+G:\Borne\Airtime\Airtime\obj\Debug\Airtime.Airtime.resources
+G:\Borne\Airtime\Airtime\obj\Debug\Airtime.Properties.Resources.resources
+G:\Borne\Airtime\Airtime\obj\Debug\Airtime.csproj.GenerateResource.Cache
+G:\Borne\Airtime\Airtime\obj\Debug\Airtime.exe
+G:\Borne\Airtime\Airtime\obj\Debug\Airtime.pdb
+G:\Borne\Airtime\Airtime\bin\Debug\Newtonsoft.Json.dll
+G:\Borne\Airtime\Airtime\bin\Debug\Newtonsoft.Json.xml
+G:\Borne\Airtime\Airtime\bin\Debug\ITLlib.dll
+C:\Users\ufipay\Desktop\Bornes\Airtime\Airtime\bin\Debug\Airtime.exe.config
+C:\Users\ufipay\Desktop\Bornes\Airtime\Airtime\bin\Debug\Airtime.exe
+C:\Users\ufipay\Desktop\Bornes\Airtime\Airtime\bin\Debug\Airtime.pdb
+C:\Users\ufipay\Desktop\Bornes\Airtime\Airtime\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ufipay\Desktop\Bornes\Airtime\Airtime\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ufipay\Desktop\Bornes\Airtime\Airtime\obj\Debug\Airtime.csprojResolveAssemblyReference.cache
+C:\Users\ufipay\Desktop\Bornes\Airtime\Airtime\obj\Debug\Airtime.Airtime.resources
+C:\Users\ufipay\Desktop\Bornes\Airtime\Airtime\obj\Debug\Airtime.Properties.Resources.resources
+C:\Users\ufipay\Desktop\Bornes\Airtime\Airtime\obj\Debug\Airtime.csproj.GenerateResource.Cache
+C:\Users\ufipay\Desktop\Bornes\Airtime\Airtime\obj\Debug\Airtime.exe
+C:\Users\ufipay\Desktop\Bornes\Airtime\Airtime\obj\Debug\Airtime.pdb
+C:\Users\ufipay\Documents\borne\Messapress 1\Bornes\Airtime\Airtime\bin\Debug\Airtime.exe.config
+C:\Users\ufipay\Documents\borne\Messapress 1\Bornes\Airtime\Airtime\bin\Debug\Airtime.exe
+C:\Users\ufipay\Documents\borne\Messapress 1\Bornes\Airtime\Airtime\bin\Debug\Airtime.pdb
+C:\Users\ufipay\Documents\borne\Messapress 1\Bornes\Airtime\Airtime\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ufipay\Documents\borne\Messapress 1\Bornes\Airtime\Airtime\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ufipay\Documents\borne\Messapress 1\Bornes\Airtime\Airtime\obj\Debug\Airtime.csprojResolveAssemblyReference.cache
+C:\Users\ufipay\Documents\borne\Messapress 1\Bornes\Airtime\Airtime\obj\Debug\Airtime.Airtime.resources
+C:\Users\ufipay\Documents\borne\Messapress 1\Bornes\Airtime\Airtime\obj\Debug\Airtime.Properties.Resources.resources
+C:\Users\ufipay\Documents\borne\Messapress 1\Bornes\Airtime\Airtime\obj\Debug\Airtime.csproj.GenerateResource.Cache
+C:\Users\ufipay\Documents\borne\Messapress 1\Bornes\Airtime\Airtime\obj\Debug\Airtime.exe
+C:\Users\ufipay\Documents\borne\Messapress 1\Bornes\Airtime\Airtime\obj\Debug\Airtime.pdb
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\Airtime\Airtime\bin\Debug\Airtime.exe.config
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\Airtime\Airtime\obj\Debug\Airtime.exe
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\Airtime\Airtime\obj\Debug\Airtime.pdb
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\Airtime\Airtime\bin\Debug\Airtime.exe
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\Airtime\Airtime\bin\Debug\Airtime.pdb
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\Airtime\Airtime\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\Airtime\Airtime\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\Airtime\Airtime\obj\Debug\Airtime.csprojResolveAssemblyReference.cache
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\Airtime\Airtime\obj\Debug\Airtime.Airtime.resources
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\Airtime\Airtime\obj\Debug\Airtime.Properties.Resources.resources
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\Airtime\Airtime\obj\Debug\Airtime.csproj.GenerateResource.Cache
