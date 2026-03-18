@@ -1,0 +1,56 @@
+G:\Borne\MoMo\MoMo\bin\Debug\MoMo.exe.config
+G:\Borne\MoMo\MoMo\bin\Debug\MoMo.exe
+G:\Borne\MoMo\MoMo\bin\Debug\MoMo.pdb
+G:\Borne\MoMo\MoMo\obj\Debug\MoMo.csprojResolveAssemblyReference.cache
+G:\Borne\MoMo\MoMo\obj\Debug\MoMo.MoMo.resources
+G:\Borne\MoMo\MoMo\obj\Debug\MoMo.Properties.Resources.resources
+G:\Borne\MoMo\MoMo\obj\Debug\MoMo.csproj.GenerateResource.Cache
+G:\Borne\MoMo\MoMo\obj\Debug\MoMo.exe
+G:\Borne\MoMo\MoMo\obj\Debug\MoMo.pdb
+G:\Borne\MoMo\MoMo\bin\Debug\Newtonsoft.Json.dll
+G:\Borne\MoMo\MoMo\bin\Debug\Newtonsoft.Json.xml
+G:\Borne\MoMo\MoMo\bin\Debug\ITLlib.dll
+D:\borne\UfiTest\Bornes\MoMo\MoMo\bin\Debug\MoMo.exe.config
+D:\borne\UfiTest\Bornes\MoMo\MoMo\bin\Debug\MoMo.exe
+D:\borne\UfiTest\Bornes\MoMo\MoMo\bin\Debug\MoMo.pdb
+D:\borne\UfiTest\Bornes\MoMo\MoMo\bin\Debug\Newtonsoft.Json.dll
+D:\borne\UfiTest\Bornes\MoMo\MoMo\bin\Debug\Newtonsoft.Json.xml
+D:\borne\UfiTest\Bornes\MoMo\MoMo\obj\Debug\MoMo.csprojResolveAssemblyReference.cache
+D:\borne\UfiTest\Bornes\MoMo\MoMo\obj\Debug\MoMo.MoMo.resources
+D:\borne\UfiTest\Bornes\MoMo\MoMo\obj\Debug\MoMo.Properties.Resources.resources
+D:\borne\UfiTest\Bornes\MoMo\MoMo\obj\Debug\MoMo.csproj.GenerateResource.Cache
+D:\borne\UfiTest\Bornes\MoMo\MoMo\obj\Debug\MoMo.exe
+D:\borne\UfiTest\Bornes\MoMo\MoMo\obj\Debug\MoMo.pdb
+C:\Users\Public\SiteKiosk\content\ufitest\UfiTest\Bornes\MoMo\MoMo\bin\Debug\MoMo.exe.config
+C:\Users\Public\SiteKiosk\content\ufitest\UfiTest\Bornes\MoMo\MoMo\bin\Debug\MoMo.exe
+C:\Users\Public\SiteKiosk\content\ufitest\UfiTest\Bornes\MoMo\MoMo\bin\Debug\MoMo.pdb
+C:\Users\Public\SiteKiosk\content\ufitest\UfiTest\Bornes\MoMo\MoMo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Public\SiteKiosk\content\ufitest\UfiTest\Bornes\MoMo\MoMo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Public\SiteKiosk\content\ufitest\UfiTest\Bornes\MoMo\MoMo\obj\Debug\MoMo.csprojResolveAssemblyReference.cache
+C:\Users\Public\SiteKiosk\content\ufitest\UfiTest\Bornes\MoMo\MoMo\obj\Debug\MoMo.MoMo.resources
+C:\Users\Public\SiteKiosk\content\ufitest\UfiTest\Bornes\MoMo\MoMo\obj\Debug\MoMo.Properties.Resources.resources
+C:\Users\Public\SiteKiosk\content\ufitest\UfiTest\Bornes\MoMo\MoMo\obj\Debug\MoMo.csproj.GenerateResource.Cache
+C:\Users\Public\SiteKiosk\content\ufitest\UfiTest\Bornes\MoMo\MoMo\obj\Debug\MoMo.exe
+C:\Users\Public\SiteKiosk\content\ufitest\UfiTest\Bornes\MoMo\MoMo\obj\Debug\MoMo.pdb
+G:\MOBILE MONEY\MoMo\MoMo\bin\Debug\MoMo.exe.config
+G:\MOBILE MONEY\MoMo\MoMo\bin\Debug\MoMo.exe
+G:\MOBILE MONEY\MoMo\MoMo\bin\Debug\MoMo.pdb
+G:\MOBILE MONEY\MoMo\MoMo\bin\Debug\Newtonsoft.Json.dll
+G:\MOBILE MONEY\MoMo\MoMo\bin\Debug\Newtonsoft.Json.xml
+G:\MOBILE MONEY\MoMo\MoMo\obj\Debug\MoMo.csprojResolveAssemblyReference.cache
+G:\MOBILE MONEY\MoMo\MoMo\obj\Debug\MoMo.MoMo.resources
+G:\MOBILE MONEY\MoMo\MoMo\obj\Debug\MoMo.Properties.Resources.resources
+G:\MOBILE MONEY\MoMo\MoMo\obj\Debug\MoMo.csproj.GenerateResource.Cache
+G:\MOBILE MONEY\MoMo\MoMo\obj\Debug\MoMo.exe
+G:\MOBILE MONEY\MoMo\MoMo\obj\Debug\MoMo.pdb
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\MoMo\MoMo\bin\Debug\MoMo.exe.config
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\MoMo\MoMo\obj\Debug\MoMo.exe
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\MoMo\MoMo\obj\Debug\MoMo.pdb
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\MoMo\MoMo\bin\Debug\MoMo.exe
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\MoMo\MoMo\bin\Debug\MoMo.pdb
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\MoMo\MoMo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\MoMo\MoMo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\MoMo\MoMo\obj\Debug\MoMo.csprojResolveAssemblyReference.cache
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\MoMo\MoMo\obj\Debug\MoMo.MoMo.resources
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\MoMo\MoMo\obj\Debug\MoMo.Properties.Resources.resources
+C:\Users\Valère Messinga\Desktop\clé\Bornes complete\ufi test\MoMo\MoMo\obj\Debug\MoMo.csproj.GenerateResource.Cache

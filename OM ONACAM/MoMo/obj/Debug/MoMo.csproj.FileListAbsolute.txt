@@ -1,0 +1,72 @@
+G:\Borne\MoMo\MoMo\bin\Debug\MoMo.exe.config
+G:\Borne\MoMo\MoMo\bin\Debug\MoMo.exe
+G:\Borne\MoMo\MoMo\bin\Debug\MoMo.pdb
+G:\Borne\MoMo\MoMo\obj\Debug\MoMo.csprojResolveAssemblyReference.cache
+G:\Borne\MoMo\MoMo\obj\Debug\MoMo.MoMo.resources
+G:\Borne\MoMo\MoMo\obj\Debug\MoMo.Properties.Resources.resources
+G:\Borne\MoMo\MoMo\obj\Debug\MoMo.csproj.GenerateResource.Cache
+G:\Borne\MoMo\MoMo\obj\Debug\MoMo.exe
+G:\Borne\MoMo\MoMo\obj\Debug\MoMo.pdb
+G:\Borne\MoMo\MoMo\bin\Debug\Newtonsoft.Json.dll
+G:\Borne\MoMo\MoMo\bin\Debug\Newtonsoft.Json.xml
+G:\Borne\MoMo\MoMo\bin\Debug\ITLlib.dll
+G:\Borne\OM\MoMo\bin\Debug\MoMo.exe.config
+G:\Borne\OM\MoMo\obj\Debug\MoMo.exe
+G:\Borne\OM\MoMo\obj\Debug\MoMo.pdb
+G:\Borne\OM\MoMo\bin\Debug\MoMo.exe
+G:\Borne\OM\MoMo\bin\Debug\MoMo.pdb
+G:\Borne\OM\MoMo\bin\Debug\ITLlib.dll
+G:\Borne\OM\MoMo\bin\Debug\Newtonsoft.Json.dll
+G:\Borne\OM\MoMo\bin\Debug\Newtonsoft.Json.xml
+G:\Borne\OM\MoMo\obj\Debug\MoMo.csprojResolveAssemblyReference.cache
+G:\Borne\OM\MoMo\obj\Debug\MoMo.MoMo.resources
+G:\Borne\OM\MoMo\obj\Debug\MoMo.Properties.Resources.resources
+G:\Borne\OM\MoMo\obj\Debug\MoMo.csproj.GenerateResource.Cache
+E:\AvsTelecom\Borne\OM\MoMo\bin\Debug\MoMo.exe.config
+E:\AvsTelecom\Borne\OM\MoMo\bin\Debug\MoMo.exe
+E:\AvsTelecom\Borne\OM\MoMo\bin\Debug\MoMo.pdb
+E:\AvsTelecom\Borne\OM\MoMo\bin\Debug\Newtonsoft.Json.dll
+E:\AvsTelecom\Borne\OM\MoMo\bin\Debug\Newtonsoft.Json.xml
+E:\AvsTelecom\Borne\OM\MoMo\obj\Debug\MoMo.csprojResolveAssemblyReference.cache
+E:\AvsTelecom\Borne\OM\MoMo\obj\Debug\MoMo.MoMo.resources
+E:\AvsTelecom\Borne\OM\MoMo\obj\Debug\MoMo.Properties.Resources.resources
+E:\AvsTelecom\Borne\OM\MoMo\obj\Debug\MoMo.csproj.GenerateResource.Cache
+E:\AvsTelecom\Borne\OM\MoMo\obj\Debug\MoMo.csproj.CoreCompileInputs.cache
+E:\AvsTelecom\Borne\OM\MoMo\obj\Debug\MoMo.exe
+E:\AvsTelecom\Borne\OM\MoMo\obj\Debug\MoMo.pdb
+C:\Users\ufi\Documents\Visual Studio 2017\OM\MoMo\bin\Debug\MoMo.exe.config
+C:\Users\ufi\Documents\Visual Studio 2017\OM\MoMo\bin\Debug\MoMo.exe
+C:\Users\ufi\Documents\Visual Studio 2017\OM\MoMo\bin\Debug\MoMo.pdb
+C:\Users\ufi\Documents\Visual Studio 2017\OM\MoMo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ufi\Documents\Visual Studio 2017\OM\MoMo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ufi\Documents\Visual Studio 2017\OM\MoMo\obj\Debug\MoMo.csprojResolveAssemblyReference.cache
+C:\Users\ufi\Documents\Visual Studio 2017\OM\MoMo\obj\Debug\MoMo.MoMo.resources
+C:\Users\ufi\Documents\Visual Studio 2017\OM\MoMo\obj\Debug\MoMo.Properties.Resources.resources
+C:\Users\ufi\Documents\Visual Studio 2017\OM\MoMo\obj\Debug\MoMo.csproj.GenerateResource.Cache
+C:\Users\ufi\Documents\Visual Studio 2017\OM\MoMo\obj\Debug\MoMo.csproj.CoreCompileInputs.cache
+C:\Users\ufi\Documents\Visual Studio 2017\OM\MoMo\obj\Debug\MoMo.exe
+C:\Users\ufi\Documents\Visual Studio 2017\OM\MoMo\obj\Debug\MoMo.pdb
+G:\OM\MoMo\bin\Debug\MoMo.exe.config
+G:\OM\MoMo\bin\Debug\MoMo.exe
+G:\OM\MoMo\bin\Debug\MoMo.pdb
+G:\OM\MoMo\bin\Debug\Newtonsoft.Json.dll
+G:\OM\MoMo\bin\Debug\Newtonsoft.Json.xml
+G:\OM\MoMo\obj\Debug\MoMo.csprojResolveAssemblyReference.cache
+G:\OM\MoMo\obj\Debug\MoMo.MoMo.resources
+G:\OM\MoMo\obj\Debug\MoMo.Properties.Resources.resources
+G:\OM\MoMo\obj\Debug\MoMo.csproj.GenerateResource.Cache
+G:\OM\MoMo\obj\Debug\MoMo.csproj.CoreCompileInputs.cache
+G:\OM\MoMo\obj\Debug\MoMo.exe
+G:\OM\MoMo\obj\Debug\MoMo.pdb
+D:\Dossiers Bornes\Bornes complete\UFI TEST\OM ONACAM\MoMo\bin\Debug\MoMo.exe.config
+D:\Dossiers Bornes\Bornes complete\UFI TEST\OM ONACAM\MoMo\bin\Debug\MoMo.exe
+D:\Dossiers Bornes\Bornes complete\UFI TEST\OM ONACAM\MoMo\bin\Debug\MoMo.pdb
+D:\Dossiers Bornes\Bornes complete\UFI TEST\OM ONACAM\MoMo\bin\Debug\Newtonsoft.Json.dll
+D:\Dossiers Bornes\Bornes complete\UFI TEST\OM ONACAM\MoMo\bin\Debug\Newtonsoft.Json.xml
+D:\Dossiers Bornes\Bornes complete\UFI TEST\OM ONACAM\MoMo\obj\Debug\MoMo.csprojResolveAssemblyReference.cache
+D:\Dossiers Bornes\Bornes complete\UFI TEST\OM ONACAM\MoMo\obj\Debug\MoMo.MoMo.resources
+D:\Dossiers Bornes\Bornes complete\UFI TEST\OM ONACAM\MoMo\obj\Debug\MoMo.Properties.Resources.resources
+D:\Dossiers Bornes\Bornes complete\UFI TEST\OM ONACAM\MoMo\obj\Debug\MoMo.csproj.GenerateResource.Cache
+D:\Dossiers Bornes\Bornes complete\UFI TEST\OM ONACAM\MoMo\obj\Debug\MoMo.csproj.CoreCompileInputs.cache
+D:\Dossiers Bornes\Bornes complete\UFI TEST\OM ONACAM\MoMo\obj\Debug\MoMo.exe
+D:\Dossiers Bornes\Bornes complete\UFI TEST\OM ONACAM\MoMo\obj\Debug\MoMo.pdb
